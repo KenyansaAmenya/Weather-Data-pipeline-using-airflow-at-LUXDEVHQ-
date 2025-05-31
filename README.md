@@ -59,3 +59,6 @@ This code defines an Apache Airflow DAG (Directed Acyclic Graph) that fetches we
 - Python: Implements the data fetching and storage logic
 
 The pipeline runs daily (as per the schedule_interval='@daily' parameter) to keep the weather data up to date.
+
+# The output
+![2025-05-31 16 46 47](https://github.com/user-attachments/assets/8794cb0f-c83b-4f8a-85cd-8bdf4922d658)
